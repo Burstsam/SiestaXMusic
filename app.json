@@ -15,37 +15,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "16409691",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "a60b42fe202a7ffbb97043df46901227",
         "required": true
       },      
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5269156943:AAEV4r6aYf9UiqRaAKvTttyVVmHPMBEiK4Y",
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
+        "description": "na na an",
         "value": "",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "Marin Music Bot",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5053846242",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQBEG1Q6NqD9-enBqRWtsNLTGMpDlZtvVl7siW9rWk2O8Rd9C4SC2LeUDh-JmHkxC9iX4I3J8Z4a0UHwrFIbRtqos-0Nf_aF5TO7rQ7HXzOn4xvDWqu42bVDdTH9nQA0Qucsb2T5CwuqaZvdex6VfkM1V0gXuVLtP02cJKNIYzeBGk9umxvYmOTyTfKKRqneCLfk7aSuAzJTEAc0p8TzPBhN3lbMhANjvNwHweI--aUWZF43vd-CNc7saxJcVRQs_eDJc5lMNjjrXSW0i8eXafakiNKZC12ppzfCyjB9X86fFGG2WTuKQQ_Ql8wwA39JpllevGIGqXlJxvHz-E5uykW1AAAAAS07kuIA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -60,7 +60,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001747988223",
         "required": true
       },      
       "START_IMG_URL": {
